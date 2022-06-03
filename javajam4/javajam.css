@@ -1,0 +1,16 @@
+body {background-color:  #FCEBB6; color: #221811; font-family: Arial, Verdana, sans-serif;}
+header {background-color: #D2B48C; color: #8C3826; text-align: center; padding-top: 5px; padding-bottom: 5px;}
+h1 {font-size: 3em;}
+h2 {color: #8C3826;}
+h3 {color: #8C3826;}
+dt {color: #8C3826;}
+h4 {background-color: #D2B48C; font-size: 1.2em; padding-left: 0.5em; padding-bottom: 0.25em;}
+nav { text-align: center;  font-weight: bold; font-size: 1.5em; padding-top: 5px; padding-bottom: 5px;}
+footer {background-color: #D2B48C; font-size: .60em; padding: 1em;border-top: solid 2px; color: #8C3826;}
+#wrapper {width: 80%; background-color: #FEFAEB; margin-right: auto; margin-left: auto; min-width: 900px; max-width: 1280px; box-shadow: inset;}
+nav a { text-decoration: none;}
+main {padding-left: 2em; padding-right: 2em; padding-bottom: 2em; }
+.details { padding-left: 20%; padding-right: 20%;}
+img {padding-left: 10px; padding-right: 10px;}
+.homehero {height:300px; background-size: cover; background-repeat: no-repeat;}
+body {background-image: url(hero.jpg); background-repeat: round;}
